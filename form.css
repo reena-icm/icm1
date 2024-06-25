@@ -1,0 +1,19 @@
+form {
+  display: flex;
+  flex-direction: column;
+  justify-content:center;
+  width: 500px;
+  height:450px;
+  margin:0 auto;
+  border:1px solid black;
+  border-radius:25px;
+  position:absolute;top:60%;
+  left:50%;transform: translate(-50%,-50%);
+  background-color:rgb(255,255,255,0.8);
+}
+input{
+	border-radius:2px;
+}
+center{padding:20px;
+font-size:32px;}
+p{margin-left:100px;}
